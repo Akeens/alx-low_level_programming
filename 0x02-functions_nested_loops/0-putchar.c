@@ -7,9 +7,9 @@
  */
 int _putchar(char c)
 {
-	char c[] = "_putchar";
+	char ch[] = "_putchar";
 
-	putchar(c[]);
+	putchar(ch[]);
 	putchar("\n");
 	return(0);
 }
