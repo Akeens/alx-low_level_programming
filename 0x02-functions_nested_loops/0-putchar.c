@@ -5,11 +5,11 @@
  * and a new line
  * Return: 0
  */
-int main(void)
+int _putchar(char c)
 {
-	char ch[] = "_putchar";
+	char c[] = "_putchar";
 
-	putchar(ch[]);
+	putchar(c[]);
 	putchar("\n");
 	return(0);
 }
