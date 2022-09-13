@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-/**i
+/**
  * main - prints the word _putchar
  * and a new line
  * Return: 0
