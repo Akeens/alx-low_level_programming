@@ -1,5 +1,7 @@
 #0x06. C - More pointers, arrays and strings Project
 
+![alt text](https://user-images.githubusercontent.com/105258746/190977571-d5135d31-02a5-4ff3-88de-d9062d6cfe13.png?raw=true "Title")
+
 File 0-strcat.c is a function that concatenates two strings.
 
 File 1-strncat.c is a function that concatenates two strings that will use at most n bytes from src.
